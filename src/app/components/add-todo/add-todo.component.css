@@ -1,0 +1,14 @@
+.form {
+  display: flex;
+  margin: 2rem 0;
+  /* padding: 10px 0; */
+}
+
+.form input[type='text'] {
+  flex: 10;
+  padding: 10px 5px;
+}
+
+.from input[type='submit'] {
+  flex: 2;
+}
